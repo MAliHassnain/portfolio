@@ -1169,3 +1169,17 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+/* Custome CSS */
+.skill-item {
+  /* height: 25px; */
+  min-width: 20px;
+  background: #0563bb;
+  margin: 2px;
+  float: left;
+  padding: 4px 14px;
+  font-size: 12px;
+  color: white;
+  border-radius: 20px;
+}
