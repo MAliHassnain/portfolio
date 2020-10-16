@@ -1173,13 +1173,18 @@ section {
 
 /* Custome CSS */
 .skill-item {
-  /* height: 25px; */
-  min-width: 20px;
+  min-width: 65px;
   background: #0563bb;
-  margin: 2px;
-  float: left;
-  padding: 4px 14px;
-  font-size: 12px;
+  margin: 5px;
+  padding: 5px 15px;
+  font-size: 13px;
   color: white;
   border-radius: 20px;
+
+  display:inline-block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+.img-round{
+  border-radius: 50%;
 }
